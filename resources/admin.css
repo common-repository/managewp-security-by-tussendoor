@@ -1,0 +1,39 @@
+.managewp_security div.section {
+	margin: 0 0 15px 0;
+	overflow: hidden;
+}
+
+.managewp_security .grid-1, .managewp_security .grid-2, .managewp_security .grid-3,
+.managewp_security .grid-4, .managewp_security .grid-5, .managewp_security .grid-6,
+.managewp_security .grid-7, .managewp_security .grid-8, .managewp_security .grid-9,
+.managewp_security .grid-10, .managewp_security .grid-11, .managewp_security .grid-12 {
+	display: inline;
+	float: left;
+	position: relative;
+	margin: 0px 1%;
+	min-height: 15px;
+}
+
+.managewp_security .grid-1 { width: 6.333%; }
+.managewp_security .grid-2 { width: 14.667%; }
+.managewp_security .grid-3 { width: 23.0%; }
+.managewp_security .grid-4 { width: 31.333%; }
+.managewp_security .grid-5 { width: 39.667%; }
+.managewp_security .grid-6 { width: 48.0%; }
+.managewp_security .grid-7 { width: 56.333%; }
+.managewp_security .grid-8 { width: 64.667%; }
+.managewp_security .grid-9 { width: 73.0%; }
+.managewp_security .grid-10 { width: 81.333%; }
+.managewp_security .grid-11 { width: 89.667%; }
+.managewp_security .grid-12 { width: 98.0%; }
+
+.managewp_security div.footer {
+	border-top: 1px solid #dfdfdf;
+	text-align: left;
+	padding: 10px 0;
+	margin: 50px 0 0 0;
+}
+
+.managewp_security .footer p {
+	margin: 10px 0 0 0;
+}
